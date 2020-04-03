@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 echo "Jane Hello World";
+echo "Jane Show Joe";
 class Homepage extends CI_Controller
 {
 
